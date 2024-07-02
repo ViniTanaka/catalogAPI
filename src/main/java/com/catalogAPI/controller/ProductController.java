@@ -24,7 +24,6 @@ public class ProductController {
 
         Map<String, List<Product>> response = new HashMap<>();
         response.put("products", allProducts);
-
         return ResponseEntity.ok(response);
     }
     @RequestMapping("/api/products/category/{category}")
