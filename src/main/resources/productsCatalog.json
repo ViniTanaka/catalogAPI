@@ -99,6 +99,16 @@
       "weight": 2,
       "measure": "gr",
       "images": "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/1.png"
+    },
+    {
+      "id": 16,
+      "title": "Apple",
+      "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+      "category": "groceries",
+      "price": 1.99,
+      "weight": 8,
+      "measure": "gr",
+      "images": "https://cdn.dummyjson.com/products/images/groceries/Apple/1.png"
     }
   ]
 }
